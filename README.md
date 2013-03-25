@@ -1,4 +1,4 @@
 DotNetPublic
 ============
 
-Projects based on .NET for public viewing
+Personal projects based on .NET for public viewing
